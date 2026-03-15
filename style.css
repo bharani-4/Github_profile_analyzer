@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.search{
+    display : flex;
+    justify-content: center;
+}
+.search button{
+    color:white;
+    margin-left: 10px;
+    background-color: red;
+}
+.search input{
+    padding: 5px;
+    width: 200px;
+}
+.profile-card{
+    
+    justify-content: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    display:inline-block;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+repo{
+background:white;
+margin:10px auto;
+width:400px;
+padding:10px;
+border-radius:8px;
+justify-content: center;
+}
